@@ -1,6 +1,6 @@
 # 🚗 License Plate Detection and Reading System
 
-![Screenshorts](./Screenshort1.png)
+![Screenshorts](./Screenshort.png)
 ![Screenshorts](./Screenshort2.png)
 
 ---
